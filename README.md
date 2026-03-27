@@ -1,3 +1,4 @@
+This project simulates real-world CRM analysis similar to Salesforce reporting dashboards.
 ## 📷 Dashboard Preview  
 ![Dashboard](Salesforce_CRM_Dashboard.png)
 
